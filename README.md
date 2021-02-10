@@ -13,3 +13,5 @@ https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html
 https://securityaffairs.co/wordpress/107335/cyber-warfare-2/taiwan-government-agencies-email-hacked.html
 
 https://www.bleepingcomputer.com/news/security/new-bendybear-apt-malware-gets-linked-to-chinese-hacking-group/
+
+https://unit42.paloaltonetworks.com/bendybear-shellcode-blacktech/
