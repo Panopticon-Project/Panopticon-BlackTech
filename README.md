@@ -15,3 +15,5 @@ https://securityaffairs.co/wordpress/107335/cyber-warfare-2/taiwan-government-ag
 https://www.bleepingcomputer.com/news/security/new-bendybear-apt-malware-gets-linked-to-chinese-hacking-group/
 
 https://unit42.paloaltonetworks.com/bendybear-shellcode-blacktech/
+
+https://blogs.jpcert.or.jp/en/2021/10/gh0sttimes.html
